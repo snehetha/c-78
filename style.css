@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+img{
+    height: 300px;
+}
+h1{
+    font-variant: small-caps;
+    font-family:Arial, Helvetica, sans-serif ;
+    text-shadow: 3px 3px red;
+}
